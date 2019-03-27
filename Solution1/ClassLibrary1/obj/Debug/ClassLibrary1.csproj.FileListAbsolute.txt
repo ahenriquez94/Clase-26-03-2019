@@ -1,0 +1,5 @@
+J:\Amilcar Henriquez\Documents\UTEC\2019\Programacion I\Unidad 3\Solution1\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+J:\Amilcar Henriquez\Documents\UTEC\2019\Programacion I\Unidad 3\Solution1\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+J:\Amilcar Henriquez\Documents\UTEC\2019\Programacion I\Unidad 3\Solution1\ClassLibrary1\obj\Debug\ClassLibrary1.csprojResolveAssemblyReference.cache
+J:\Amilcar Henriquez\Documents\UTEC\2019\Programacion I\Unidad 3\Solution1\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+J:\Amilcar Henriquez\Documents\UTEC\2019\Programacion I\Unidad 3\Solution1\ClassLibrary1\obj\Debug\ClassLibrary1.pdb
